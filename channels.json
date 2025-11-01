@@ -1,6 +1,6 @@
 [
   {
-    "title": "Mathrubhumi News",
+    "title": "Nathrubhumi News",
     "embed": "https://www.youtube.com/embed/YGEgelAiUf0",
     "thumbnail": "https://img.youtube.com/vi/YGEgelAiUf0/hqdefault.jpg"
   },
@@ -8,5 +8,20 @@
     "title": "Asianet News",
     "embed": "https://www.youtube.com/embed/tXRuaacO-ZU",
     "thumbnail": "https://img.youtube.com/vi/tXRuaacO-ZU/hqdefault.jpg"
+  },
+  {
+    "title": "Manorama News",
+    "embed": "https://www.youtube.com/embed/tgBTspqA5nY",
+    "thumbnail": "https://img.youtube.com/vi/tgBTspqA5nY/hqdefault.jpg"
+  },
+  {
+    "title": "DW News",
+    "embed": "https://www.youtube.com/embed/LuKwFajn37U",
+    "thumbnail": "https://img.youtube.com/vi/LuKwFajn37U/hqdefault.jpg"
+  },
+  {
+    "title": "France 24 English",
+    "embed": "https://www.youtube.com/embed/Ap-UM1O9RBU",
+    "thumbnail": "https://img.youtube.com/vi/Ap-UM1O9RBU/hqdefault.jpg"
   }
 ]
