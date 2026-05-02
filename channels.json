@@ -24,4 +24,19 @@
     "embed": "https://www.youtube.com/embed/Ap-UM1O9RBU",
     "thumbnail": "https://img.youtube.com/vi/Ap-UM1O9RBU/hqdefault.jpg"
   }
+  {
+    "title": "NASA",
+    "embed": "https://www.youtube.com/embed/sWasdbDVNvc",
+    "thumbnail": "https://img.youtube.com/vi/sWasdbDVNvc/hqdefault.jpg"
+  },
+  {
+    "title": "Timeline - World History Documentaries",
+    "embed": "https://www.youtube.com/embed/imQGaX_ZdiI",
+    "thumbnail": "https://img.youtube.com/vi/imQGaX_ZdiI/hqdefault.jpg"
+  },
+  {
+    "title": "24 News",
+    "embed": "https://www.youtube.com/embed/1wECsnGZcfc",
+    "thumbnail": "https://img.youtube.com/vi/1wECsnGZcfc/hqdefault.jpg"
+  }
 ]
