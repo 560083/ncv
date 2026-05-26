@@ -1,12 +1,12 @@
 [
   {
     "title": "Mathrubhumi News",
-    "embed": "https://www.youtube.com/embed/YGEgelAiUf0",
-    "thumbnail": "https://img.youtube.com/vi/YGEgelAiUf0/hqdefault.jpg"
+    "embed": "https://www.youtube.com/embed/0wGkPLjeOOA",
+    "thumbnail": "https://img.youtube.com/vi/0wGkPLjeOOA/hqdefault.jpg"
   },
   {
     "title": "Asianet News",
-    "embed": "https://www.youtube.com/live/s0LLVQeMmtU",
+    "embed": "https://www.youtube.com/embed/s0LLVQeMmtU",
     "thumbnail": "https://img.youtube.com/vi/s0LLVQeMmtU/hqdefault.jpg"
   },
   {
@@ -25,18 +25,25 @@
     "thumbnail": "https://img.youtube.com/vi/Ap-UM1O9RBU/hqdefault.jpg"
   },
   {
-    "title": "NASA",
-    "embed": "https://www.youtube.com/embed/sWasdbDVNvc",
-    "thumbnail": "https://img.youtube.com/vi/sWasdbDVNvc/hqdefault.jpg"
+    "title": "CNA 24/7  Singapore, Asia",
+    "embed": "https://www.youtube.com/embed/XWq5kBlakcQ",
+    "thumbnail": "https://img.youtube.com/vi/XWq5kBlakcQ/hqdefault.jpg"
   },
   {
-    "title": "Timeline - World History Documentaries",
-    "embed": "https://www.youtube.com/embed/imQGaX_ZdiI",
-    "thumbnail": "https://img.youtube.com/vi/imQGaX_ZdiI/hqdefault.jpg"
+    "title": "NASA",
+    "embed": "https://www.youtube.com/embed/FuuC4dpSQ1M",
+    "thumbnail": "https://img.youtube.com/vi/FuuC4dpSQ1M/hqdefault.jpg"
+  },
+  {
+    "title": "Bloomberg Business News Live",
+    "embed": "https://www.youtube.com/embed/iEpJwprxDdk",
+    "thumbnail": "https://img.youtube.com/vi/iEpJwprxDdk/hqdefault.jpg"
   },
   {
     "title": "24 News",
     "embed": "https://www.youtube.com/embed/1wECsnGZcfc",
     "thumbnail": "https://img.youtube.com/vi/1wECsnGZcfc/hqdefault.jpg"
   }
+
+  
 ]
